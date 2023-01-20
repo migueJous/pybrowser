@@ -1,0 +1,7 @@
+NO EDITES EL ARCHIVO .py PARA QUE NO TENGAS ERRORES.
+
+comandos de instalacion y ejecucion:
+1- apt update && apt upgrade
+2- apt install python3
+3- pip install google
+4- python3 pybrowser.py
